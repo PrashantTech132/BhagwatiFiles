@@ -8,9 +8,9 @@
 }
 .outer-circle {
 
-width: 250px;
+width: 700px;
 
-height: 250px;
+height: 700px;
 
 border-radius: 50%;
 
@@ -30,9 +30,10 @@ height: 280px;
 
 border-radius: 50%;
 
-background-color:
+background-color: black;
+    }
 
-black;}
+
 
 body {
     height: 100vh;
