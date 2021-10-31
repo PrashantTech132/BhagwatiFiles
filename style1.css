@@ -6,6 +6,33 @@
     box-sizing: border-box;
     font-family: 'Orbitron', sans-serif;
 }
+.outer-circle {
+
+width: 250px;
+
+height: 250px;
+
+border-radius: 50%;
+
+background-color: white;
+
+display: flex;
+
+alignlitems: center; justify-content: center;
+
+}
+
+.inner-circle {
+
+width: 230px;
+
+height: 280px;
+
+border-radius: 50%;
+
+background-color:
+
+black;}
 
 body {
     height: 100vh;
